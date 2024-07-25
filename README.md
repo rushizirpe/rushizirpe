@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Rishi 👋🏼👨🏻‍💻</h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikesh.zirpe1234@gmail.com "Connect via Email") &nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zirperishi@gmail.com "Connect via Email") &nbsp;&nbsp;&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-z/ "Connect on LinkedIn")&nbsp;&nbsp;&nbsp;
 [![Kaggle Badge](https://img.shields.io/badge/-Medium-lightgrey?style=for-the-badge&logo=Medium&logoColor=white)](https://www.medium.com/thisisrishi/ "Connect on Medium")&nbsp;&nbsp;&nbsp;
 [![Stackoverflow Badge](https://img.shields.io/badge/-StackOverflow-orange?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/story/rishi "Connect on Stackoverflow")&nbsp;&nbsp;&nbsp;
