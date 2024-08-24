@@ -12,14 +12,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-VatsalParsaniya-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/VatsalParsaniya "Follow on Twitter")
 -->
 ---
-I am into Machine Learning, Deep Learning, Computer vision, and NLP with a strong foundation in Statistics, Mathematics, and Computer Science. I have extensive experience developing and deploying Machine Learning models for various domains, including healthcare, finance, and e-commerce. Some of my notable skills and achievements include:
+I am into Machine Learning, Deep Learning, and NLP with a strong foundation in Statistics, Mathematics, and Computer Science. I have extensive experience developing and deploying Machine Learning models for various domains, including healthcare, finance, and e-commerce.
 
 * Successfully deployed and maintained Machine Learning models using AWS services like Sagemaker, EC2, Lambda, and API Gateway.
-* Expertise in Deep Learning frameworks such as Tensorflow and Keras for developing complex Neural Networks and implementing Transfer Learning.
+* Expertise in Deep Learning frameworks such as Tensorflow and PyTorch for developing complex Neural Networks and implementing Transfer Learning.
 * Proficient in data preprocessing techniques such as Feature Engineering, Normalization, and Handling Imbalanced Data.
 * Implemented and fine-tuned various supervised and unsupervised learning algorithms like Random Forest, SVM, K-Means, and DBSCAN.
 * Strong understanding of Natural Language Processing (NLP) techniques such as Text Classification, Sentiment Analysis, and Topic Modeling.
-* Completed several online certification courses on Machine Learning, including Machine Learning by Andrew Ng.
 * Active member of the Machine Learning community and regularly participates in hackathons and meetups.
 
 I am always eager to take on new challenges and am passionate about using my skills to solve real-world problems using Machine Learning.
