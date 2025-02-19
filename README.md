@@ -25,7 +25,7 @@ I am always eager to take on new challenges and am passionate about using my ski
 I love to learn and contribute in any and every possible way.
 
 
-- ⚡ Check out my portfolio site [https://iamrishi.com/](https://portfolio-rk6z-rishizirpe.vercel.app/) for all my projects and and my works.
+- ⚡ Check out my portfolio site [https://iamrishi.com/](https://iamrishi.com/) for all my projects and and my works.
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
